@@ -1,23 +1,12 @@
-<<<<<<< HEAD
-# ExerciciosJavaFaculdade
-Repositorio criado para exercicios de java faculdade
-=======
-## Getting Started
+# Exercícios de Programação - Faculdade
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório contém uma série de exercícios de programação em Java, desenvolvidos como parte do curso de Análise e Desenvolvimento de Sistemas da faculdade.
 
-## Folder Structure
+## Descrição dos Exercícios
 
-The workspace contains two folders by default, where:
+Os exercícios realizados envolvem a implementação de várias classes, cada uma com funcionalidades específicas, de acordo com os requisitos fornecidos. Abaixo estão listadas algumas das implementações:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Objetivo
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+O objetivo deste repositório é praticar a criação de classes em Java, aplicando conceitos de orientação a objetos, como encapsulamento e métodos de manipulação de dados.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
->>>>>>> fe22702 (subindo os arquivos que fiz para a revisão)
